@@ -1,5 +1,5 @@
 .body1{
-    background: url('./Assets/Login/blu.jpg');
+    background: url('./blu.jpg');
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
@@ -96,4 +96,12 @@ input[type=email1]
 {
     color:white;
     font-size: 30px;
+}
+.rk
+{
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    left:240px;
 }
